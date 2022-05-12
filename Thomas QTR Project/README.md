@@ -23,7 +23,7 @@ You first need to download streamlit as well as all the other libraries in order
 
 ## Usage
 
-![Currency Converter](http://localhost:8888/lab/tree/Thomas%20QTR%20Project/Currency%20Converter%20Pic.PNG)
+![Currency Converter](https://github.com/tb7x/Currency-Converter-/blob/main/Thomas%20QTR%20Project/Currency%20Converter%20Pic.PNG)
 
 
 

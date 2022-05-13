@@ -31,12 +31,12 @@ You first need to download streamlit as well as all the other libraries in order
 ## Contributors
  
 Qristian Walker
-Email is
+Email is 12234ninjasniper@gmail.com
 
 Thomas Burns
 Email is burns235577@gmail.com
 
 Richard Kell
-Email is
+Email is rrkell1214@gmail.com
 
 ---
